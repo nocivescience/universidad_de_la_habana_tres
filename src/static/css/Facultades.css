@@ -1,0 +1,12 @@
+.container-facultades {
+  padding: 20px;
+}
+.container-facultades ul {
+  padding: 0;
+}
+.container-facultades ul .enlace-facultad {
+  list-style-type: none;
+}
+.container-facultades ul .enlace-facultad .facultad {
+  text-decoration: none;
+}/*# sourceMappingURL=Facultades.css.map */

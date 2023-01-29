@@ -1,0 +1,8 @@
+.new-center-component {
+  width: 50vw;
+}
+@media screen and (min-width: 700px) {
+  .new-center-component {
+    flex-direction: row;
+  }
+}/*# sourceMappingURL=Fajardo.css.map */

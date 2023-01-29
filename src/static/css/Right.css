@@ -1,0 +1,16 @@
+.tercer-elemento {
+  grid-column: 3/4;
+  height: auto;
+  margin: 10px;
+}
+.tercer-elemento .calendar-container {
+  border: 1px solid black;
+  border-radius: 4px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.4941176471);
+}
+@media screen and (max-width: 700px) {
+  .tercer-elemento {
+    width: 100%;
+    padding: 10px;
+  }
+}/*# sourceMappingURL=Right.css.map */

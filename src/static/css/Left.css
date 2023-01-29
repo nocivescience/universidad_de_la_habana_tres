@@ -1,0 +1,9 @@
+.primer-elemento {
+  grid-column: 1/2;
+  height: auto;
+}
+@media screen and (max-width: 700px) {
+  .primer-elemento {
+    width: 100%;
+  }
+}/*# sourceMappingURL=Left.css.map */

@@ -1,0 +1,14 @@
+.right-container {
+  border: black 1px solid;
+  border-radius: 4px;
+  margin-top: 10px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.4941176471);
+  padding: 20px;
+}
+.right-container h1 {
+  background-color: #c3c3c3;
+  font-size: 1em;
+  text-align: center;
+  padding: 10px 0;
+  font-weight: bolder;
+}/*# sourceMappingURL=RightComponent.css.map */

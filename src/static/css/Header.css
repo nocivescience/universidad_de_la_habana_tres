@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap");
+.container-universidad {
+  width: 100%;
+  position: relative;
+}
+.container-universidad img {
+  width: 100%;
+}
+.container-universidad .text-container {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+.container-universidad .text-container .texto {
+  color: #ffffff;
+  font-size: 4em;
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+}
+@media screen and (max-width: 800px) {
+  .container-universidad .text-container .texto {
+    font-size: 2em;
+  }
+}/*# sourceMappingURL=Header.css.map */
