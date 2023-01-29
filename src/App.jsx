@@ -18,7 +18,7 @@ function App() {
         <Navbar></Navbar>
         <Header></Header>
         <Routes>
-          <Route path='/' element={<Cuerpo></Cuerpo>}></Route>
+          <Route path='/universidad_de_la_habana_tres' element={<Cuerpo></Cuerpo>}></Route>
           <Route path='/facultades' element={<Facultades></Facultades>}></Route>
           <Route path='/facultades/calixto' element={<CalixtoCuerpo></CalixtoCuerpo>}></Route>
           <Route path='/facultades/fajardo' element={<FajardoCuerpo></FajardoCuerpo>}></Route>

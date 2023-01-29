@@ -5,7 +5,7 @@ export const Navbar = () => {
     <div>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
-          <NavLink className="navbar-brand navegador" to='/'>
+          <NavLink className="navbar-brand navegador" to='/universidad_de_la_habana_tres'>
             Inicio
           </NavLink>
           <button
